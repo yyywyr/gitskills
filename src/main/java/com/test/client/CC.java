@@ -8,5 +8,6 @@ public class CC {
         System.out.println("B commit again");
         System.out.println("A commit test");
         System.out.println("B branch commit");
+        System.out.println("B branch commit again");
     }
 }
